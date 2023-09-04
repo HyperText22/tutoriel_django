@@ -35,7 +35,6 @@ Découvrez la dernière vidéo de notre série "Apprendre Django" sur les templa
 
 Dans cette vidéo, nous explorons les bases essentielles des templates Django, y compris le chargement de templates, les boucles et les instructions conditionnelles (if). C'est une étape cruciale pour créer des sites web dynamiques avec Django.
 
-
 ## Contributions
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez participer, veuillez ouvrir une "issue" pour discuter de votre proposition de contribution avant de soumettre une "pull request".
