@@ -27,12 +27,14 @@ Avant de plonger dans le projet, assurez-vous d'avoir :
 
 La structure du projet sera expliquée au fur et à mesure de son développement. Vous trouverez des informations sur l'organisation des répertoires, les modèles de données, les vues, les templates et plus encore à mesure que nous progresserons.
 
-## Progression
+## 📺 Vidéo Recommandée
 
-### Étape 1 : Création de l'Application Blog
+Découvrez la dernière vidéo de notre série "Apprendre Django" sur les templates Django, la première partie d'une série de trois :
 
-- [Lien vers la vidéo "Apprendre Django #4 - Créer une application"](https://www.youtube.com/watch?v=xMoOr6APQfc)
-- Dans cette étape, nous avons créé une application "blog" pour notre projet et configuré les URL et les vues de base.
+🎥 [Apprendre Django #5 - Les templates (1/3)](https://www.youtube.com/watch?v=l_kJqHTIRC8)
+
+Dans cette vidéo, nous explorons les bases essentielles des templates Django, y compris le chargement de templates, les boucles et les instructions conditionnelles (if). C'est une étape cruciale pour créer des sites web dynamiques avec Django.
+
 
 ## Contributions
 
