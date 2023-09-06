@@ -1,0 +1,21 @@
+{% extends 'base/base.html' %}
+
+{% load static %}
+
+{% block 'title' %} {{ article.title }} {% endblock %}
+
+{% block 'main' %}
+    <h1 class="text-center my-2">
+        {{ article.title }}
+    </h1>
+    <div class="my-3">
+        <div style="height: 200px;" class="w-100">
+            <img src="{% static 'img/travel.jpg' %}" alt="" class="w-100 h-100">
+        </div>
+        <div class="py-2">
+            <p>
+                {{ article.desc }}
+            </p>
+        </div>
+    </div>
+{% endblock %}
