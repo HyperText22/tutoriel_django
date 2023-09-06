@@ -29,11 +29,11 @@ La structure du projet sera expliquée au fur et à mesure de son développement
 
 ## 📺 Vidéo Recommandée
 
-Découvrez la dernière vidéo de notre série "Apprendre Django" sur les templates Django, la première partie d'une série de trois :
+Découvrez la dernière vidéo de notre série "Apprendre Django" sur les templates Django, la deuxième partie d'une série de trois :
 
-🎥 [Apprendre Django #5 - Les templates (1/3)](https://www.youtube.com/watch?v=l_kJqHTIRC8)
+🎥 Apprendre Django #7 - Les templates (2/3)
 
-Dans cette vidéo, nous explorons les bases essentielles des templates Django, y compris le chargement de templates, les boucles et les instructions conditionnelles (if). C'est une étape cruciale pour créer des sites web dynamiques avec Django.
+Dans cette vidéo, nous plongeons encore plus profondément dans les concepts avancés des templates Django, y compris l'héritage de templates, les inclusions, les filtres, les variables de contexte, et bien plus encore.
 
 
 ## Contributions
