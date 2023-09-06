@@ -35,6 +35,8 @@ Découvrez la dernière vidéo de notre série "Apprendre Django" sur les templa
 
 Dans cette vidéo, nous plongeons encore plus profondément dans les concepts avancés des templates Django, y compris l'héritage de templates, les inclusions, les filtres, les variables de contexte, et bien plus encore.
 
+- [Lien vers la vidéo "Apprendre Django #4 - Créer une application"](https://www.youtube.com/watch?v=xMoOr6APQfc)
+- Dans cette étape, nous avons créé une application "blog" pour notre projet et configuré les URL et les vues de base.
 
 ## Contributions
 
