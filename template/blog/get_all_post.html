@@ -1,0 +1,33 @@
+{% extends 'base/base.html' %}
+
+{% load static %}
+
+{% block 'title' %} Tout les articles {% endblock %}
+
+{% block 'main' %}
+    <h1 class="text-center my-2">Welcome to HyperText Blog</h1>
+    <div class="my-3">
+        <div class="row row-cols-3">
+            {% for message in messages %}
+            <div class="card m-2" style="width: 18rem;">
+                <img src="{% static 'img/travel.jpg' %}" alt="" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        {% if message.id == 2 %}
+                        Fake article
+                        {% else %}
+                        {{ message.title }}
+                        {% endif %}
+                        <br>
+                    </h5>
+                    <p class="card-text">
+                        {{ message.desc }}
+                    </p>
+                    <a href="{% url 'post.post' message.id %}" class="card-link">Lien</a>
+                    <a href="#" class="card-link">Another link</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

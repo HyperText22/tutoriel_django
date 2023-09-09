@@ -27,12 +27,13 @@ Avant de plonger dans le projet, assurez-vous d'avoir :
 
 La structure du projet sera expliquée au fur et à mesure de son développement. Vous trouverez des informations sur l'organisation des répertoires, les modèles de données, les vues, les templates et plus encore à mesure que nous progresserons.
 
-## Progression
+## 📺 Vidéo Recommandée
 
-### Étape 1 : Création de l'Application Blog
+Découvrez notre dernière vidéo dans la série "Apprendre Django" :
 
-- [Lien vers la vidéo "Apprendre Django #4 - Créer une application"](https://www.youtube.com/watch?v=xMoOr6APQfc)
-- Dans cette étape, nous avons créé une application "blog" pour notre projet et configuré les URL et les vues de base.
+🎥 [Apprendre Django #8 - Les templates (3/3)](https://www.youtube.com/watch?v=xK4HC-mE4s8)
+
+Dans cette vidéo, nous plongeons dans le monde des filtres de templates Django. Vous apprendrez comment utiliser les filtres prédéfinis de Django et comment créer vos propres filtres personnalisés pour personnaliser la présentation de vos données.
 
 ## Contributions
 
