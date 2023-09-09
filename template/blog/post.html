@@ -2,8 +2,11 @@
 
 {% load static %}
 
+<<<<<<< HEAD
 {% load custom_filters %}
 
+=======
+>>>>>>> 61f7d0af4c23b0027b96892cbecf7e58753c088d
 {% block 'title' %} {{ article.title }} {% endblock %}
 
 {% block 'main' %}
@@ -14,6 +17,7 @@
         <div style="height: 200px;" class="w-100">
             <img src="{% static 'img/travel.jpg' %}" alt="" class="w-100 h-100">
         </div>
+<<<<<<< HEAD
         <div class="py-2 d-flex">
             <p>
                 {{ article.desc | truncatewords:3 }}
@@ -23,6 +27,11 @@
             </p>
             <p class="ms-3">
                 {{ ma_date|date:"d/m/Y" }}
+=======
+        <div class="py-2">
+            <p>
+                {{ article.desc }}
+>>>>>>> 61f7d0af4c23b0027b96892cbecf7e58753c088d
             </p>
         </div>
     </div>
